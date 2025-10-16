@@ -109,8 +109,8 @@ public class Principal {
 		System.out.println("Insira o valor da temperatura:");
 		tempUm.setCelsius(scanner.nextDouble());
 		System.out.println("A temperatura é "+ tempUm.getCelsius()+"C");
-		System.out.println("Convertendo para  Fahrenheit:"+ tempUm.paraFahrenhiet()+"F");
-		System.out.println("Convertendo para  Kelvin:"+ tempUm.paraKelvin()+"K");
+		System.out.println("Convertendo para Fahrenheit:"+ tempUm.paraFahrenhiet()+"F");
+		System.out.println("Convertendo para Kelvin:"+ tempUm.paraKelvin()+"K");
 		
 	}
 	
